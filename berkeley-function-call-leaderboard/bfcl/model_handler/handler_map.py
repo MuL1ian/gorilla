@@ -126,6 +126,7 @@ local_inference_handler_map = {
     "Qwen/Qwen2.5-7B-Instruct": QwenHandler,
     "Team-ACE/ToolACE-8B": LlamaHandler,
     "openbmb/MiniCPM3-4B": MiniCPMHandler,
+    "/hy-tmp/quant":LlamaHandler,
 }
 
 # Deprecated/outdated models, no longer on the leaderboard
